@@ -1,0 +1,35 @@
+{
+    "name": "witp",
+    "version": "0.1.0",
+    "description": "What Is The Platform?",
+    "keywords": [
+        "javascript",
+        "js",
+        "electron",
+        "nodejs",
+        "browser",
+        "platform"
+    ],
+    "homepage": "https://github.com/AlexAnimateMp4/WITP#readme",
+    "bugs": {
+        "url": "https://github.com/AlexAnimateMp4/WITP/issues"
+    },
+    "license": "MPL-2.0",
+    "author": {
+        "name": "Alex Animate Mp4",
+        "email": "contact.alexanimatemp4@gmail.com",
+        "url": "https://alexanimatemp4.herokuapp.com"
+    },
+    "contributors": [],
+    "files": [
+        "index.js",
+        "LICENSE.md",
+        "package.json"
+    ],
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlexAnimateMp4/WITP.git"
+    },
+    "private": "false"
+}

@@ -1,0 +1,6 @@
+(function (root, factory) {
+    if (typeof exports == `object` && typeof module == `object`) module.exports = factory;
+    else if (typeof define == `function` && define.amd) define([], factory);
+    else if (typeof exports == `object`) exports[`witp`] = factory;
+    else root[`witp`] = factory;
+}(this, typeof window == `object` && window != null && Object.keys(window).length > 0 && typeof window.process == `object` && window.process != null && Object.keys(window.process).length > 0 && window.process.type == `renderer` || typeof process == `object` && process != null && Object.keys(process).length > 0 && typeof process.versions == `object` && process.versions != null && Object.keys(process.versions).length > 0 && !!process.versions.electron || typeof navigator == `object` && navigator != null && Object.keys(navigator).length > 0 && typeof navigator.userAgent == `string` && String(navigator.userAgent).length > 0 && navigator.userAgent.indexOf(`Electron`) >= 0 ? `desktop` : typeof process == `object` && process != null && Object.keys(process).length > 0 && typeof process.platform == `string` && String(process.platform).length > 0 ? `os` : typeof window == `object` && window != null && Object.keys(window).length > 0 ? `browser` : `undefined`));
