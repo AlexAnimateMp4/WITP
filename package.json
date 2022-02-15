@@ -1,6 +1,6 @@
 {
     "name": "witp",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "What Is The Platform?",
     "keywords": [
         "javascript",
@@ -22,14 +22,14 @@
     },
     "contributors": [],
     "files": [
-        "index.js",
+        ".npmignore",
+        "index.min.js",
         "LICENSE.md",
         "package.json"
     ],
-    "main": "index.js",
+    "main": "index.min.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/AlexAnimateMp4/WITP.git"
-    },
-    "private": "false"
+    }
 }

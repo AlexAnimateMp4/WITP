@@ -10,11 +10,23 @@
     <a id="readme-shield-release-date" href="https://github.com/AlexAnimateMp4/WITP/releases/latest">
         <img id="readme-shield-release-date-img" src="https://img.shields.io/github/release-date/AlexAnimateMp4/WITP" alt="Release date" />
     </a>
+    <a id="readme-shield-npm-download-week">
+        <img id="readme-shield-npm-download-week-img" src="https://img.shields.io/npm/dw/witp?label=npm%20downloads" alt="NPM Package download by week" />
+    </a>
+    <a id="readme-shield-npm-download-month">
+        <img id="readme-shield-npm-download-month-img" src="https://img.shields.io/npm/dm/witp?label=npm%20downloads" alt="NPM Package download by month" />
+    </a>
+    <a id="readme-shield-npm-download-total">
+        <img id="readme-shield-npm-download-total-img" src="https://img.shields.io/npm/dt/witp?label=npm%20downloads" alt="NPM Package download total" />
+    </a>
     <a id="readme-shield-downloads">
         <img id="readme-shield-downloads-img" src="https://img.shields.io/github/downloads/AlexAnimateMp4/WITP/total" alt="Downloads" />
     </a>
     <a id="readme-shield-downloads-latest">
         <img id="readme-shield-downloads-latest-img" src="https://img.shields.io/github/downloads/AlexAnimateMp4/WITP/latest/total" alt="Downloads@latest" />
+    </a>
+    <a id="readme-shield-npm-collaborators">
+        <img id="readme-shield-npm-collaborators-img" src="https://img.shields.io/npm/collaborators/witp" alt="NPM Package collaborators" />
     </a>
     <a id="readme-shield-contributors" href="https://github.com/AlexAnimateMp4/WITP/graphs/contributors">
         <img id="readme-shield-contributors-img" src="https://img.shields.io/github/contributors/AlexAnimateMp4/WITP" alt="Contributors" />
@@ -43,7 +55,7 @@
     <a id="readme-shield-version">
         <img id="readme-shield-version-img" src="https://img.shields.io/github/package-json/v/AlexAnimateMp4/WITP" alt="Version" />
     </a>
-    <a id="readme-shield-main-file" href="./index.js">
+    <a id="readme-shield-main-file" href="./index.min.js">
         <img id="readme-shield-main-file-img" src="https://img.shields.io/github/package-json/main/AlexAnimateMp4/WITP" alt="Main file" />
     </a>
     <a id="readme-shield-languages">
@@ -110,5 +122,7 @@
         </table>
     </div>
 </div>
+
+<br>
 
 <p id="readme-footer" align="center">CL 2022 <a id="readme-footer-repo" href="https://github.com/AlexAnimateMp4/WITP">WITP</a><br>&lt;/&gt; with ❤ by <a id="readme-footer-author" href="https://github.com/AlexAnimateMp4" target="_blank">Alex Animate Mp4</a> and <a id="readme-footer-contributors" href="https://github.com/AlexAnimateMp4/WITP/graphs/contributors">contributors</a>.</p>
